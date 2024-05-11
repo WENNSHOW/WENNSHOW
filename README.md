@@ -21,4 +21,4 @@ I am backend developer on Java <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=idea,java,maven,spring,stackoverflow,docker&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,java,maven,spring,postgres,git,stackoverflow,docker&theme=dark&perline=4)](https://skillicons.dev)
