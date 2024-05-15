@@ -15,7 +15,7 @@ I am backend developer on Java <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: In my free time, I solve problems on GeeksforGeeks or leetcode and read tech articles.
 
-- :mailbox:How to reach me: <a href="https://vk.com/wennshow" position="absolute" bottom="0"><image src="https://img.icons8.com/color/48/vk-com.png" alt="vk" height="30px"></a>
+- :mailbox:How to reach me: <a href="https://t.me/WENNSHOW" position="absolute" bottom="0"><image src="https://pngicon.ru/file/uploads/telegram.png" alt="vk" height="30px"></a>
 
 ---
 
