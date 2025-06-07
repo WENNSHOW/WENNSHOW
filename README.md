@@ -9,7 +9,7 @@
 ### :man_technologist: About Me :<br>
 I am backend developer on Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m 20 y.o.
+- :telescope: I’m 21 y.o.
 
 - :seedling: Exploring Java, different frameworks and e.t.c.
 
